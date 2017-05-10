@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "opensanca"
 title: "Opensanca Podcast"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Podcast do sucesso!"
+keywords: "Opensanca, Podcast, tech"
 favicon: "/img/favicon.ico"
 
 ################
@@ -177,7 +177,7 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Podcasts: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
