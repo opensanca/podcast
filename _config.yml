@@ -33,13 +33,13 @@ author: "Opensanca"
 title: "Opensanca Podcast"
 description: "Podcast feito pelo pessoal do Opensanca para a comunidade."
 keywords: "Opensanca, Podcast, Tech"
-favicon: "/img/favicon.ico"
+favicon: "/img/microphone.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/microphone-white.png"
 
 background-img: "../img/export-header.jpg"
 
@@ -127,7 +127,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "podcast@opensanca.com"
+email: "podcast@opensanca.com.br"
 
 ################
 # Author Blurb #
