@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "opensanca"
+author: "Opensanca"
 title: "Opensanca Podcast"
-description: "Podcast do sucesso!"
-keywords: "Opensanca, Podcast, tech"
+description: "Podcast feito pelo pessoal do Opensanca para a comunidade."
+keywords: "Opensanca, Podcast, Tech"
 favicon: "/img/favicon.ico"
 
 ################
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/export-header.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Conhecimento é livre."
+  - text: "Compartilhando ideias e informações."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/thumbs-opensanca.jpg"
 
 ##############################
 # Color the browser elements #
@@ -110,13 +110,13 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+#events:
+#  - image: "/img/timeline/spidertocat.png"
+#    date: "September 2013 - Today"
+#    description: "Saving the neighborhood!"
+#  - image: "/img/timeline/baracktocat.jpg"
+#    date: "September 2007 - August 2013"
+#    description: "Started coding"
 
 # First image of the Timeline
 
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "podcast@opensanca.com"
 
 ################
 # Author Blurb #
@@ -136,8 +136,8 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+#author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+#author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
@@ -145,13 +145,11 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://www.facebook.com/opensanca/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/opensanca"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/opensanca"
   - title: "rss"
     url: "/feed.xml"
 
@@ -165,9 +163,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+#keybase-username: johnsmith
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
@@ -176,10 +174,10 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
+  #About: 'about'
   Podcasts: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  #Timeline: 'timeline'
+  Contato: 'contact'
 
 # Exclusion list from the generated _site
 
