@@ -196,3 +196,12 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+
+#####################################
+
+# Podcast Feed Settings
+
+subtitle:       "Podcast sobre tecnologia"
+lang:           pt-BR
+author:         "OpenSanca"
+copyright:      "&#x2117; &amp; &#xA9; 2017"
