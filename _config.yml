@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Conhecimento é livre."
   - text: "Compartilhando ideias e informações."
+  - text: "We love Open Source S2"
 
 me-img: "/img/thumbs-opensanca.jpg"
 
@@ -151,7 +152,7 @@ social:
   - title: "github"
     url: "https://github.com/opensanca"
   - title: "rss"
-    url: "/feed.xml"
+    url: "/podcast/feed.xml"
 
 ############
 # 404 page #
