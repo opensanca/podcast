@@ -14,10 +14,8 @@ tags: [ 'podcast' ]
 
 Nossa 3ª edição ficou pronta, graças a ajuda do novo editor oficial do Opensanca Podcast, Leonardo Ferreira (about.me/leonardoferreira).
 
-Convidamos nossos amigos Maurício Carvalho e Tiago Santos da husky.io, e o Rafael Oliveria (aka Bahia), para falarmos de Trabalho remoto...
+Convidamos nossos amigos Maurício Carvalho e Tiago Santos da <a href="https://husky.io/">Husky</a>, e o Rafael Oliveria (aka Bahia), para falarmos de Trabalho remoto...
 
 Espero que gostem...
 
-feedbacks ;)
-
-andre@opensanca.com.br ou cadu@opensanca.com.br
+Esperamos por feedbacks ;)
