@@ -16,7 +16,7 @@ summary: "Convidamos alguns amigos para relatarem suas experiências de trabalho
 
 "Tarda mas não falha"...
 
-Nossa 3ª edição ficou pronta, graças a ajuda do novo editor oficial do Opensanca Podcast, Leonardo Ferreira (about.me/leonardoferreira).
+Nossa 3ª edição ficou pronta, graças a ajuda do novo editor oficial do Opensanca Podcast, <a href="https://about.me/leonardoferreira">Leonardo Ferreira</a>.
 
 Convidamos nossos amigos Maurício Carvalho e Tiago Santos da <a href="https://husky.io/">Husky</a>, e o Rafael Oliveria (aka Bahia), para falarmos de Trabalho remoto...
 
