@@ -92,16 +92,16 @@ post-preview-words: 96
 
 paginate: 5
 
-email-share: True
+email-share: False
 fb-share: True
 twitter-share: True
 linkedin-share: True
-reddit-share: True
+reddit-share: False
 google-plus-share: True
-tumblr-share: True
-pinterest-share: True
+tumblr-share: False
+pinterest-share: False
 pocket-share: True
-vkontakte-share: True
+vkontakte-share: False
 
 disqus-shortname: "https-opensanca-github-io-podcast"
 

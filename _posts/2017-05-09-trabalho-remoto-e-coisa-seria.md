@@ -14,10 +14,6 @@ summary: "Convidamos alguns amigos para relatarem suas experiências de trabalho
 
 ---
 
-<audio preload="auto" controls>
-  <source src="https://s3-us-west-2.amazonaws.com/opensanca-podcast/%233+Opensanca+Podcast+-+Trabalho+remoto+%C3%A9+coisa+s%C3%A9ria.mp3" type="audio/mpeg">
-</audio>
-
 "Tarda mas não falha"...
 
 Nossa 3ª edição ficou pronta, graças a ajuda do novo editor oficial do Opensanca Podcast, Leonardo Ferreira (about.me/leonardoferreira).

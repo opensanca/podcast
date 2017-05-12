@@ -32,6 +32,10 @@
             </small>
           </h4>
 
+          <audio preload="auto" style="width: 100%" controls>
+            <source src="{{ page.file }}" type="audio/mpeg">
+          </audio>
+
           <section class="text-justify">
             {{ page.content | markdownify }}
           </section>

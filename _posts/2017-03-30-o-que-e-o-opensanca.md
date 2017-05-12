@@ -14,9 +14,9 @@ summary: "Nesse episódio iremos falar sobre o que é e como surgiu o OpenSanca"
 
 ---
 
-<audio preload="auto" controls>
-  <source src="https://s3-us-west-2.amazonaws.com/opensanca-podcast/%231-podcast-opensanca-220-260-kpbs.mp3" type="audio/mpeg">
-</audio>
+<!-- <audio preload="auto" style="width: 100%" controls>
+  <source src="http://awscdn.podcasts.com/1-O-que-o-Opensanca-4cd6.mp3" type="audio/mpeg">
+</audio> -->
 
 Primeiroooo!!!!!!
 
