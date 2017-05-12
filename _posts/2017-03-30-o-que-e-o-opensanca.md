@@ -4,6 +4,7 @@ section-type: post
 title: 1 - O que é o Opensanca?
 category: podcast
 tags: [ 'podcast' ]
+comments : true
 file: https://s3-us-west-2.amazonaws.com/opensanca-podcast/%231-podcast-opensanca-220-260-kpbs.mp3
 explicit: "no"
 duration: "49:42"

@@ -103,7 +103,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "https-opensanca-github-io-podcast"
 
 syntax-highlight: True
 
@@ -152,7 +152,7 @@ social:
   - title: "github"
     url: "https://github.com/opensanca"
   - title: "rss"
-    url: "/podcast/feed.xml"
+    url: "http://feeds.feedburner.com/opensanca_podcast"
 
 ############
 # 404 page #
