@@ -5,7 +5,7 @@ title: 1 - O que é o Opensanca?
 category: podcast
 tags: [ 'podcast' ]
 comments : true
-file: https://s3-us-west-2.amazonaws.com/opensanca-podcast/%231-podcast-opensanca-220-260-kpbs.mp3
+file: http://awscdn.podcasts.com/1-O-que-o-Opensanca-4cd6.mp3
 explicit: "no"
 duration: "49:42"
 length: "80160614"

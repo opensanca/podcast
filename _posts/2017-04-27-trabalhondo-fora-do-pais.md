@@ -5,7 +5,7 @@ title: 2 - Trabalhando fora do país.
 category: podcast
 tags: [ 'podcast' ]
 comments : true
-file: https://s3-us-west-2.amazonaws.com/opensanca-podcast/%232+-+Opensanca+Podcast-FINAL-320.mp3
+file: http://awscdn.podcasts.com/2-Opensanca-Podcast-Trabalhando-fora-do-pas-d816.mp3
 explicit: "no"
 duration: "78:55"
 length: "94693796"

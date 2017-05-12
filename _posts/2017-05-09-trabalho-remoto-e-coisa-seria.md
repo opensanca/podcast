@@ -5,7 +5,7 @@ title: 3 - Trabalho Remoto é coisa séria.
 category: podcast
 tags: [ 'podcast' ]
 comments : true
-file: https://s3-us-west-2.amazonaws.com/opensanca-podcast/%233+Opensanca+Podcast+-+Trabalho+remoto+%C3%A9+coisa+s%C3%A9ria.mp3
+file: http://awscdn.podcasts.com/3-Trabalho-Remoto-Coisa-Sria-a53f.mp3
 explicit: "no"
 duration: "71:12"
 length: "88501893"
