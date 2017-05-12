@@ -1,0 +1,17 @@
+.love {
+  background-color: #fff;
+  border-top: 1px solid #e0e0e0;
+  bottom: 0;
+  height: 38px;
+  left: 0;
+  padding: 10px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  color: #000;
+}
+
+.love i:first-child {
+  color: #e90606;
+}
+
