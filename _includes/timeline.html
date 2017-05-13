@@ -1,5 +1,5 @@
 
-<!-- Timeline Start -->
+<!-- Timeline Start 
 
 <section id="{{ page.section-type }}" class="container content-section text-center">
   <div class="row">
@@ -42,4 +42,23 @@
   </div>
 </section>
 
-<!-- Timeline End -->
+Timeline End -->
+
+<!-- Assinar Start -->
+<section id="{{ page.section-type }}" class="container content-section text-center">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+
+      {{ page.content | markdownify }}
+
+      
+      <ul class="list-inline social-buttons">
+          {% for feed in site.feeds %}
+          <li><a href="{{ feed.url }}" target="_blank"><i class="fa fa-{{ feed.title }} fa-fw"></i></a></li>
+          {% endfor %}
+      </ul>
+      <br><br><br>
+    </div>
+  </div>
+</section>
+<!-- Assinar End -->

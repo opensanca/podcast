@@ -108,7 +108,7 @@ disqus-shortname: "https-opensanca-github-io-podcast"
 syntax-highlight: True
 
 ############
-# Timeline #
+# Timeline # # -> Assinar
 ############
 
 #events:
@@ -122,6 +122,9 @@ syntax-highlight: True
 # First image of the Timeline
 
 #timeline-img: "/img/timeline/default.png"
+feeds:
+  - title: "rss"
+    url: "http://feeds.feedburner.com/opensanca_podcast"
 
 ###########
 # Contact #
@@ -151,8 +154,6 @@ social:
     url: "https://twitter.com/opensanca"
   - title: "github"
     url: "https://github.com/opensanca"
-  - title: "rss"
-    url: "http://feeds.feedburner.com/opensanca_podcast"
 
 ############
 # 404 page #
@@ -177,7 +178,7 @@ keybase-in-footer: False
 pages_list:
   #About: 'about'
   Podcasts: 'latest-post'
-  #Timeline: 'timeline'
+  Assinar: 'timeline'
   Contato: 'contact'
 
 # Exclusion list from the generated _site
