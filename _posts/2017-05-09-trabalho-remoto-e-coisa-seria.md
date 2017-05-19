@@ -22,4 +22,14 @@ Convidamos nossos amigos Maurício Carvalho e Tiago Santos da <a href="https://h
 
 Espero que gostem...
 
+<h4>Links mencionados :</h4>
+
+<a href="https://www.upwork.com/">UpWork</a>
+
+<a href="https://weworkremotely.com/">We Work Remotely</a>
+
+<a href="https://www.freelance.com/en/">Freelance</a>
+
+<a href="https://husky.io/">Husky</a>
+
 Esperamos por feedbacks ;)
