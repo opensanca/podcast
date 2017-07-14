@@ -20,7 +20,7 @@ Contamos com a presença do <a href="https://www.linkedin.com/in/damianijr/">Jos
 
 <h4>Links mencionados :</h4>
 
-<a href="https://www.packer.io/intro/index.html">parcker</a>
+<a href="https://www.packer.io/intro/index.html">packer</a>
 
 <a href="https://www.ansible.com/">ansible</a>
 
