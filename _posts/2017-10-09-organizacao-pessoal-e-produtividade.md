@@ -18,7 +18,13 @@ Nessa nossa 5a edição falamos sobre ferramentas e técnicas para organização
 
 Contamos com a presença do <a href="https://www.linkedin.com/in/rafael-oliveira-29275915/">Rafael Oliveira</a> e <a href="https://www.linkedin.com/in/willianmolinari/">Willian Molinari (PotHix)</a>.
 
+<h4>Livro - Desconstruindo a Web</h4>
+
+<a href="https://desconstruindoaweb.com.br">https://desconstruindoaweb.com.br - Willian Molinari</a>
+
 <h4>Links mencionados :</h4>
+
+<a href="https://pothix.com">Blog do PotHix</a>
 
 <a href="https://ptbr.todoist.com/app?lang=pt_BR">Todoist</a>
 
@@ -38,9 +44,6 @@ Contamos com a presença do <a href="https://www.linkedin.com/in/rafael-oliveira
 
 <a href="https://www.goodreads.com/book/show/25744928-deep-work?from_search=true">Livro Deep Work</a>
 
-<a href="https://pothix.com">Blog do PotHix</a>
-
-<a href="https://desconstruindoaweb.com.br">Livro do PotHix</a>
 
 Espero que gostem... Se faltou algum link a culpa é do editor ;)
 
