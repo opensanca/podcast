@@ -36,6 +36,9 @@ Nesse 6º episódio convidamos alguns amigos que entendem tudo sobre como fazer 
 
 <a href="http://issoecafe.com/coado/">Coado</a>
 
+<h4>Errata</h4>
+
+Kopi Luwak é um mamífero. Não um pássaro. Confusão com o Jacu Coffee Bird.
 
 Espero que gostem... Se faltou algum link a culpa é do editor (Leo) ;)
 
