@@ -22,7 +22,6 @@ Nesse 6º episódio convidamos alguns amigos que entendem tudo sobre como fazer 
 + <a href="https://www.linkedin.com/in/marcelomiky/">Marcelo Miky Mine</a>
 + <a href="https://www.linkedin.com/in/girolineto/">Rafael Girolineto</a>
 
-
 <h4>Links mencionados </h4>
 
 <a href="https://www.graogourmet.com/blog/bulletproof-coffee-o-cafe-prova-de-balas/">Bulletproof Coffee</a>
