@@ -14,7 +14,7 @@ summary: "Nesse 9º episódio entramos em uma discussão sobre orquestração de
 
 ---
 
-Nesse 9º episódio entramos em uma discussão sobre documentação de software. Os motivos, pontos positivos, pontos negativos e ferramentas para nos ajudar.
+Nesse 9º episódio entramos em uma discussão sobre orquestração de containers com Kubernetes. Os motivos, pontos positivos, pontos negativos e ferramentas para nos ajudar.
 
 <h4>Convidados</h4>
 
