@@ -18,8 +18,8 @@ No 10º episódio, batemos um papo com profissionais de outros países que estã
 
 <h4>Convidados</h4>
 
-- <a href="https://www.linkedin.com/in/oriol-canalias-8691a14a/" target="_blank">Oriol Canalias</a> | Catalunha
-- <a href="https://www.linkedin.com/in/dycorrales/" target="_blank">Dariel Corrales</a> | Cuba
+- <a href="https://www.linkedin.com/in/oriol-canalias-8691a14a/" target="_blank">Oriol Canalias (Catalunha)</a>
+- <a href="https://www.linkedin.com/in/dycorrales/" target="_blank">Dariel Corrales (Cuba)</a>
 
 <h4>Apoie o Opensanca</h4>
  
