@@ -124,7 +124,7 @@ syntax-highlight: True
 #timeline-img: "/img/timeline/default.png"
 feeds:
   - title: "rss"
-    url: "http://feeds.feedburner.com/opensanca_podcast"
+    url: "https://anchor.fm/s/a994864/podcast/rss"
 
 ###########
 # Contact #
