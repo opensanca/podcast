@@ -14,7 +14,7 @@ summary: "No 10º episódio, batemos um papo com profissionais de outros países
 
 ---
 
-No 10º episódio, batemos um papo com profissionais de outros países que estão fazendo carreira no Brasil. Venha conhecer como foi que eles descobriram o Brasil, os desafios, diferenças cunturais e técnicas entre os profissionais.
+No 10º episódio, batemos um papo com profissionais de outros países que estão fazendo carreira no Brasil. Venha conhecer como foi que eles descobriram o Brasil, os desafios, diferenças culturais e técnicas entre os profissionais.
 
 <h4>Convidados</h4>
 
@@ -26,9 +26,6 @@ No 10º episódio, batemos um papo com profissionais de outros países que estã
 - <a href="https://apoia.se/opensanca" target="_blank">Apoia.se</a>
 - <a href="https://app.picpay.com/user/opensanca" target="_blank">PicPay Assinaturas</a>
 - <a href="https://www.padrim.com.br/opensanca" target="_blank">Padrim</a>
-
-E faça parte de uma rede de recompenças exclusivas.
-
 
 Espero que gostem... Se faltou algo, a culpa é do editor (Léo) ;)
 
