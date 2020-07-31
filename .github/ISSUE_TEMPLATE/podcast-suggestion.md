@@ -7,19 +7,19 @@ assignees: andrelugomes
 
 ---
 
-# Title
-
 ## Description
 
 ## Agenda
 
-+ Advertisiment /  Announcments
++ Advertisement / Annunciations
 + Hosts
 + Guests
 +
 +
 
 
-## Guests sugestions
+## Guests suggestions
 
++
++
 +
