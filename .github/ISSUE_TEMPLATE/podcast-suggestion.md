@@ -1,9 +1,9 @@
 ---
 name: Podcast Suggestion
-about: Describe this issue template's purpose here.
+about: Describe what you would to listen.
 title: ''
 labels: podcast
-assignees: andrelugomes
+assignees: duduribeiro, andrelugomes
 
 ---
 
@@ -18,7 +18,7 @@ assignees: andrelugomes
 +
 
 
-## Guests suggestions
+## Guest suggestions
 
 +
 +
